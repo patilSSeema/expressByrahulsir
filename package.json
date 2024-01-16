@@ -1,0 +1,22 @@
+{
+  "name": "expressbyrahulsir",
+  "version": "1.0.0",
+  "description": "learn basic express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patilSSeema/expressByrahulsir.git"
+  },
+  "author": "seema patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patilSSeema/expressByrahulsir/issues"
+  },
+  "homepage": "https://github.com/patilSSeema/expressByrahulsir#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
